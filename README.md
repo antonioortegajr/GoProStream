@@ -4,7 +4,7 @@ Tools for handling/displaying GoPro HTTP/UDP stream. Available in Python.
 
 ### Dependencies:
 
-Python:
+Python3:
 
 * FFMPEG
 * urllib
