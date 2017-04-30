@@ -54,8 +54,8 @@ Location for saved video feed (needs to be changed to your username and director
 https://medium.com/@konrad_it/how-to-stream-from-a-gopro-camera-f4a164150797
 
 ### Troubleshooting tips
-When installing FFMPEG via homebrew be sure FFPLAY gets installed as well.
-You might need to use the IP as well as port for the UDP stream.
+- When installing FFMPEG via homebrew be sure FFPLAY gets installed as well.
+- You might need to use the IP as well as port for the UDP stream.
 
 ### Credit
 
